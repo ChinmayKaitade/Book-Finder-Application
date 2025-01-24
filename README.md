@@ -119,11 +119,11 @@ This application uses the **Open Library API** to fetch book details.
 
 ---
 
-## 🤝 Contributors
-
-[![All Contributors](https://img.shields.io/github/all-contributors/ChinmayKaitade/Book-Finder-Application-iNeuron?color=ee8449&style=flat-square)](#contributors)
+## 🤝 Contributions
 
 We Welcome Contributions! We are grateful for the valuable contributions from our community. Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
+
+## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
